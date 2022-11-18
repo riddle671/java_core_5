@@ -18,6 +18,7 @@ public class homework1 {
             System.out.println("Ребенок идет в университет");
         }
         // Задание №3
+        // Задание №3
         boolean chicken = true;
         boolean vegetables = false;
         boolean sour = true;
