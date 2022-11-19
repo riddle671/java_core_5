@@ -1,4 +1,4 @@
-public class homework1 {
+public class Homework1 {
     public static void main(String[] args) {
         //Задача 1
         double growth = 1.85;
