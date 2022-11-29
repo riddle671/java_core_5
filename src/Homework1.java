@@ -29,7 +29,7 @@ public class Homework1 {
         {
             System.out.println("Цезарь");
         }
-        else if (vegetables && sausage || chicken && eggs)
+        else if (vegetables && (sausage || chicken) && eggs)
         {
             System.out.println("Оливье");
         }
